@@ -1,7 +1,7 @@
 
 # 🎓 Student Management System (C Project)
 
-## 💡 About This Project
+##  About This Project
 This is a simple yet functional **Student Management System** written in C. It's got all the essentials: add students, update them, delete them, and even let them log in to see their own info. We’ve even got an Admin login, so only the boss can make changes. Plus, it auto-saves everything to a CSV file for easy tracking and reporting.
 
 ## 🚀 Features
